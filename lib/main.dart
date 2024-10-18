@@ -1,9 +1,8 @@
-import 'package:flutter/material.dart';
-
 import 'dart:ui' as ui;
 
-import 'package:sun_moon_theme_switch_button/load_assest_image.dart';
+import 'package:flutter/material.dart';
 
+import 'load_assets_image.dart';
 import 'moon_sun_switch_painter.dart';
 
 void main() {
@@ -54,7 +53,7 @@ class _MainAppState extends State<MainApp> with SingleTickerProviderStateMixin {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.cyanAccent,
+      backgroundColor: Colors.blueGrey,
       body: Center(
         child: moon == null
             ? const CircularProgressIndicator()

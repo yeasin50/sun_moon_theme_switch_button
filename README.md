@@ -1,3 +1,7 @@
-# sun_moon_theme_switch_button
+# Moon+Sun Toggle animation
 
-A new Flutter project.
+Tutorial: [FlutterForMe](https://youtu.be/_Y9U_3NyI-0)
+
+Design By (Justin Stagge)https://www.figma.com/community/file/1067939699698148283
+
+![image](cover.png)
